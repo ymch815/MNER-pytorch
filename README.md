@@ -57,16 +57,6 @@ The low-rank factorization `J = UV^T` dramatically reduces parameters from `O(dÂ
 - scikit-learn >= 1.0.0
 - matplotlib >= 3.5.0 (for testing/visualization)
 
-### Install Package
-
-```bash
-# For development
-pip install -e .
-
-# Or add the repository root to your Python path
-export PYTHONPATH="${PYTHONPATH}:/path/to/mner-light-torch-share"
-``` 
-
 ## Testing
 
 Run the test suite to verify installation:

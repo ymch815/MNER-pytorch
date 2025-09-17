@@ -1,13 +1,13 @@
 # MNE PyTorch Implementation
 
-A PyTorch-based implementation of the Maximum Noise Entropy (MNE) model for low-rank neural response modeling with automatic differentiation.
+A PyTorch-based implementation of the Low-Rank Maximum Noise Entropy (MNER) model. 
 
 ## Context
 
-This PyTorch implementation is a modernized version of the original Maximum Noise Entropy with Rank constraints (MNEr) algorithm, migrated from Theano to PyTorch for improved performance and maintainability.
+This PyTorch implementation is a modernized version of the original Low-rank Maximum Noise Entropy (MNER) algorithm, migrated from Theano to PyTorch for improved performance and maintainability.
 
 **Original MNEr Resources:**
-- **Tutorial**: [MNEr Tutorial](http://joelkaardal.com/links/tutorials/mner.html) - Comprehensive introduction to the MNE method
+- **Tutorial**: [MNER Tutorial](http://joelkaardal.com/links/tutorials/mner.html) - Comprehensive introduction to the MNE method
 - **Original Code**: [mner](https://github.com/jkaardal/mner) - Theano-based reference implementation
 
 ### Key Features of This Implementation

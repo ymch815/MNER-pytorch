@@ -4,9 +4,10 @@ A PyTorch-based implementation of the Low-Rank Maximum Noise Entropy (MNER) mode
 
 ## Context
 
-This PyTorch implementation is a modernized version of the original Low-rank Maximum Noise Entropy (MNER) algorithm, migrated from Theano to PyTorch for improved performance and maintainability.
+This PyTorch implementation is a modernized version of the Low-rank Maximum Noise Entropy (MNER) algorithm, migrated from Theano to PyTorch for improved performance and maintainability.
 
 **Original MNEr Resources:**
+- **Paper**: Joel T. Kaardal, Frédéric E. Theunissen, and Tatyana O. Sharpee. [A low-rank method for characterizing high-level neural computations.](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2017.00068/full) Frontiers in Computational Neuroscience, 11:68, 2017.
 - **Tutorial**: [MNER Tutorial](http://joelkaardal.com/links/tutorials/mner.html) - Comprehensive introduction to the MNE method
 - **Original Code**: [mner](https://github.com/jkaardal/mner) - Theano-based reference implementation
 
